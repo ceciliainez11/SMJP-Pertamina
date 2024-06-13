@@ -35,3 +35,6 @@ The documentation for SMJP includes detailed information about the project struc
 *Swagger API Documentation - Part 2*
 ![Swagger Documentation](https://github.com/ceciliainez11/SMJP-Pertamina/blob/master/swagger2.png)
 
+*Database in SQL Server*
+![SQL Server](https://github.com/ceciliainez11/SMJP-Pertamina/blob/master/databasesqlserver.png)
+

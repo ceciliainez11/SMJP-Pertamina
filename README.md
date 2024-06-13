@@ -23,15 +23,15 @@ The goal of SMJP is to provide a comprehensive solution for monitoring security 
 
 The documentation for SMJP includes detailed information about the project structure, API endpoints.
 
-![SMJP Microservices](https://github.com/ceciliainez11/SMJP-Pertamina/raw/master/microservices-smjp.png)
 *SMJP Microservices Architecture*
+![SMJP Microservices](https://github.com/ceciliainez11/SMJP-Pertamina/raw/master/microservices-smjp.png)
 
-![SMJP Database](https://github.com/ceciliainez11/SMJP-Pertamina/blob/master/database.png)
 *SMJP Database Schema*
+![SMJP Database](https://github.com/ceciliainez11/SMJP-Pertamina/blob/master/database.png)
 
-![Swagger Documentation](https://github.com/ceciliainez11/SMJP-Pertamina/blob/master/swagger1.png)
 *Swagger API Documentation - Part 1*
+![Swagger Documentation](https://github.com/ceciliainez11/SMJP-Pertamina/blob/master/swagger1.png)
 
-![Swagger Documentation](https://github.com/ceciliainez11/SMJP-Pertamina/blob/master/swagger2.png)
 *Swagger API Documentation - Part 2*
+![Swagger Documentation](https://github.com/ceciliainez11/SMJP-Pertamina/blob/master/swagger2.png)
 

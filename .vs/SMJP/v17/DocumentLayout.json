@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cecil\\source\\repos\\SMJP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|c:\\users\\cecil\\source\\repos\\smjp\\smjp.masterdataservices.api\\controllers\\companiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|solutionrelative:smjp.masterdataservices.api\\controllers\\companiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|c:\\users\\cecil\\source\\repos\\smjp\\smjp.masterdataservices.api\\controllers\\shiftsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|solutionrelative:smjp.masterdataservices.api\\controllers\\shiftsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|c:\\users\\cecil\\source\\repos\\smjp\\smjp.masterdataservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|solutionrelative:smjp.masterdataservices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|c:\\users\\cecil\\source\\repos\\smjp\\smjp.masterdataservices.api\\smjp.masterdataservices.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|solutionrelative:smjp.masterdataservices.api\\smjp.masterdataservices.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|c:\\users\\cecil\\source\\repos\\smjp\\smjp.masterdataservices.api\\migrations\\20240521032256_addschedulestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|solutionrelative:smjp.masterdataservices.api\\migrations\\20240521032256_addschedulestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|c:\\users\\cecil\\source\\repos\\smjp\\smjp.masterdataservices.api\\models\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|solutionrelative:smjp.masterdataservices.api\\models\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|c:\\users\\cecil\\source\\repos\\smjp\\smjp.masterdataservices.api\\models\\dto\\companiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|solutionrelative:smjp.masterdataservices.api\\models\\dto\\companiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|c:\\users\\cecil\\source\\repos\\smjp\\smjp.masterdataservices.api\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}|SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj|solutionrelative:smjp.masterdataservices.api\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShiftsAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Controllers\\ShiftsAPIController.cs",
+              "RelativeDocumentMoniker": "SMJP.MasterDataServices.API\\Controllers\\ShiftsAPIController.cs",
+              "ToolTip": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Controllers\\ShiftsAPIController.cs",
+              "RelativeToolTip": "SMJP.MasterDataServices.API\\Controllers\\ShiftsAPIController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:32:17.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Companies.cs",
+              "DocumentMoniker": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Models\\Companies.cs",
+              "RelativeDocumentMoniker": "SMJP.MasterDataServices.API\\Models\\Companies.cs",
+              "ToolTip": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Models\\Companies.cs",
+              "RelativeToolTip": "SMJP.MasterDataServices.API\\Models\\Companies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:45:01.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMJP.MasterDataServices.API.csproj",
+              "DocumentMoniker": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj",
+              "RelativeDocumentMoniker": "SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj",
+              "ToolTip": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj",
+              "RelativeToolTip": "SMJP.MasterDataServices.API\\SMJP.MasterDataServices.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T01:40:22.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Program.cs",
+              "RelativeDocumentMoniker": "SMJP.MasterDataServices.API\\Program.cs",
+              "ToolTip": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Program.cs",
+              "RelativeToolTip": "SMJP.MasterDataServices.API\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:31:13.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompaniesDto.cs",
+              "DocumentMoniker": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Models\\Dto\\CompaniesDto.cs",
+              "RelativeDocumentMoniker": "SMJP.MasterDataServices.API\\Models\\Dto\\CompaniesDto.cs",
+              "ToolTip": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Models\\Dto\\CompaniesDto.cs",
+              "RelativeToolTip": "SMJP.MasterDataServices.API\\Models\\Dto\\CompaniesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:28:01.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompaniesAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Controllers\\CompaniesAPIController.cs",
+              "RelativeDocumentMoniker": "SMJP.MasterDataServices.API\\Controllers\\CompaniesAPIController.cs",
+              "ToolTip": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Controllers\\CompaniesAPIController.cs",
+              "RelativeToolTip": "SMJP.MasterDataServices.API\\Controllers\\CompaniesAPIController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:26:57.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240521032256_AddSchedulesToDb.cs",
+              "DocumentMoniker": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Migrations\\20240521032256_AddSchedulesToDb.cs",
+              "RelativeDocumentMoniker": "SMJP.MasterDataServices.API\\Migrations\\20240521032256_AddSchedulesToDb.cs",
+              "ToolTip": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Migrations\\20240521032256_AddSchedulesToDb.cs",
+              "RelativeToolTip": "SMJP.MasterDataServices.API\\Migrations\\20240521032256_AddSchedulesToDb.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:22:56.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Controllers\\UsersAPIController.cs",
+              "RelativeDocumentMoniker": "SMJP.MasterDataServices.API\\Controllers\\UsersAPIController.cs",
+              "ToolTip": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\Controllers\\UsersAPIController.cs",
+              "RelativeToolTip": "SMJP.MasterDataServices.API\\Controllers\\UsersAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:18:18.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

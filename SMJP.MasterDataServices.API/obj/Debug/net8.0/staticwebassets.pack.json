@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\wwwroot\\uploads\\2c91fd34-a110-4e3e-a4d0-84eaa7816204.png",
+      "PackagePath": "staticwebassets\\uploads\\2c91fd34-a110-4e3e-a4d0-84eaa7816204.png"
+    },
+    {
+      "Id": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\wwwroot\\uploads\\48e87759-bb56-4400-a7a5-5e1032d8e51f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\48e87759-bb56-4400-a7a5-5e1032d8e51f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\wwwroot\\uploads\\b89ba4cb-33a9-446b-9839-9c07ba2a1a05.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b89ba4cb-33a9-446b-9839-9c07ba2a1a05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cecil\\source\\repos\\SMJP\\SMJP.MasterDataServices.API\\wwwroot\\uploads\\e2f84706-f3ee-4d40-95d9-816a9708162a.png",
+      "PackagePath": "staticwebassets\\uploads\\e2f84706-f3ee-4d40-95d9-816a9708162a.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SMJP.MasterDataServices.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SMJP.MasterDataServices.API.props",
+      "PackagePath": "build\\SMJP.MasterDataServices.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SMJP.MasterDataServices.API.props",
+      "PackagePath": "buildMultiTargeting\\SMJP.MasterDataServices.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SMJP.MasterDataServices.API.props",
+      "PackagePath": "buildTransitive\\SMJP.MasterDataServices.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

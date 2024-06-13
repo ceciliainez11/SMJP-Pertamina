@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{E7B57C09-FDC8-45C8-BA1E-BB724762AF53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{3A65DCB9-0E5F-4856-A795-3239E48022DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{03FC3726-0F85-4BBC-9C54-EEDF4B7BE531}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C76CE942-203C-4E88-8DF5-1C870823AA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMJP.MasterDataServices.API", "SMJP.MasterDataServices.API\SMJP.MasterDataServices.API.csproj", "{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F6BE74-0AE3-40D8-9C31-15BB45D1B443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35F6BE74-0AE3-40D8-9C31-15BB45D1B443} = {C76CE942-203C-4E88-8DF5-1C870823AA4B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574D8AA4-1566-4676-B728-AA4E8D971DFC}
+	EndGlobalSection
+EndGlobal

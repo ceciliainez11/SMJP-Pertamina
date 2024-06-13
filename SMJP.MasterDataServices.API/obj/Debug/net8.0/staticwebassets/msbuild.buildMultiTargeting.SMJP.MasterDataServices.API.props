@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SMJP.MasterDataServices.API.props" />
+</Project>
